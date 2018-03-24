@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-app-engine.api.streamdata.gallery
+title: Streamdata Gallery Google App Engine
+url: google-app-engine.streamdata.gallery
 tag: Google App Engine
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-app-engine
 github_branch: master
 collections:
