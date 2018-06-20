@@ -4,7 +4,7 @@ x-collection-name: Google App Engine
 x-complete: 1
 info:
   title: Google App Engine Admin
-  description: provisions-and-manages-app-engine-applications
+  description: provisions-and-manages-app-engine-applications-
   contact:
     name: Google
     url: https://google.com
